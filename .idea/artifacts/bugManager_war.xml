@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bugManager:war">
+    <output-path>$PROJECT_DIR$/bugManager/target</output-path>
+    <root id="archive" name="bugManager.war">
+      <element id="artifact" artifact-name="bugManager:war exploded" />
+    </root>
+  </artifact>
+</component>
